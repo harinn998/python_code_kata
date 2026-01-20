@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120814
 # 알고리즘: 기초
 # 작성자: 박하린
-# 작성일: 2026. 01. 20. 11:45:07
+# 작성일: 2026. 01. 20. 11:46:59
 
 def solution(n):
     # 7로 나눈 몫을 미리 구한다
